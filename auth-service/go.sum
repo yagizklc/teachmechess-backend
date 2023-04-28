@@ -1,0 +1,6 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/yagizklc/teachmechess-backend/user-service v0.0.0-20230428204751-02cd08f32d6e h1:L9MsCHWbvFEMtHTKpKaoJUfAGR+VwDEmHPX9ySknAr4=
+github.com/yagizklc/teachmechess-backend/user-service v0.0.0-20230428204751-02cd08f32d6e/go.mod h1:0W3kGBBDgxhM1WafiHkwGBEC0iUVqjPAnnHOkeVGyho=
+golang.org/x/crypto v0.8.0 h1:pd9TJtTueMTVQXzk8E2XESSMQDj/U7OUu0PqJqPXQjQ=
+golang.org/x/crypto v0.8.0/go.mod h1:mRqEX+O9/h5TFCrQhkgjo2yKi0yYA+9ecGkdQoHrywE=
