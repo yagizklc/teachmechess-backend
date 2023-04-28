@@ -12,7 +12,7 @@ The Online Chess Application is built using a range of modern technologies, chos
 
 - **Go**: Go is used as the primary programming language for the backend API and game engine, due to its built-in support for concurrency, simple and efficient syntax, and low memory footprint.
 
-- **Rust**: Rust is used as the primary programming language for the frontend using the Yew framework, due to its performance, safety, and ability to compile to WebAssembly. Rust is also used for the AI model training service, due to its speed and low-level control over memory and computation.
+- **Rust**: Rust is used as the primary programming language for the frontend using the Yew framework, due to its performance, safety, and ability to compile to WebAssembly.
 
 - **PostgreSQL**: PostgreSQL is used as the backend database for the application, due to its reliability, scalability, and support for advanced features like JSON data types.
 
